@@ -27,6 +27,7 @@ dependencies = [
     "tqdm",
     "xgboost",
     "umap-learn",
+    "kagglehub>=1.0.1",
 ]
 
 [dependency-groups]
